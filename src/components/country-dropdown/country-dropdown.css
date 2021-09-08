@@ -1,0 +1,14 @@
+.country-dropdown {
+  max-height: 400px;
+  overflow: auto;
+  border-radius: 4px;
+}
+
+.ant-dropdown-link {
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ant-dropdown-menu-item:hover {
+  background: #d4ebff;
+}
